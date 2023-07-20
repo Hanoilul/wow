@@ -32,3 +32,55 @@ A program megnyílik egy új ablakban. Az ablak tetején látni fogod a karakter
 Nyisd meg a WoW játékkliensedben a karakteradatokat, majd másold ki az aktuális felszerelésed, talentumaid és egyéb beállításaid.
 A SimulationCraft ablakában a "Gear" fülön illeszd be a másolt karakteradatokat az üres mezőbe. Ez magában foglalja az összes olyan információt, amire szükséged van a szimulációhoz, például a specializációd, a fajod, a covenant-ed, a legendás tárgyaid stb.
 Szimuláció futtatása és eredmények elemzése:
+
+
+## Egyszerű Útmutató a Hasznos WoW Addonokhoz és Beállításukhoz
+Mi az az Addon?
+Az addonok olyan felhasználók által létrehozott módosítások vagy kiegészítések, amelyek javítják a World of Warcraft felhasználói felületét és játékélményét. Értékes funkciókat kínálnak, mint például a raid keretek javítása, a lejárási idők követése, a térkép részleteinek fokozása és még sok más.
+
+## Addonok Telepítése:
+Tölts le egy megbízható addon kezelőt: Például a "CurseForge" (https://www.curseforge.com/) vagy a "Twitch App" (https://app.twitch.tv/download) népszerű addon kezelők.
+
+Telepítsd az addon kezelőt: Kövesd az addon kezelő telepítési utasításait.
+
+Indítsd el az addon kezelőt: Nyisd meg az addon kezelőt, hogy hozzáadhass WoW addonokat.
+
+## Nélkülözhetetlen Addonok:
+Itt vannak néhány alapvető addon, amelyek fokozzák a WoW élményét:
+
+### Deadly Boss Mods (DBM):
+Segít a főellenség találkozók során időzítőkkel, figyelmeztetésekkel és riasztásokkal az ellenfél képességeire.
+Letöltés: https://www.curseforge.com/wow/addons/deadly-boss-mods
+### Recount vagy Details! Damage Meter:
+Követi és megjeleníti a sebzést, gyógyítást és más statisztikákat számodra és a csoportod számára.
+Letöltés Recount: https://www.curseforge.com/wow/addons/recount
+Letöltés Details!: https://www.curseforge.com/wow/addons/details
+### WeakAuras 2:
+Testre szabható figyelmeztetések és vizuális segédeszközök követéshez buffokhoz, debuffokhoz, lejárási időkhöz és még sok máshoz.
+Letöltés: https://www.curseforge.com/wow/addons/weakauras-2
+### GTFO (Get out of the Fire):
+Hang- és vizuális riasztásokat nyújt a káros talajhatások elkerüléséhez.
+Letöltés: https://www.curseforge.com/wow/addons/gtfo
+### Bartender4:
+Testre szabhatja az akció sávjaidat, gyorsbillentyűidet és varázslataid elhelyezését a felhasználóbarátabb felületért.
+Letöltés: https://www.curseforge.com/wow/addons/bartender4
+### TomTom:
+Fokozza a játékon belüli térképet koordináták és útvonalak segítségével a könnyebb navigációhoz.
+Letöltés: https://www.curseforge.com/wow/addons/tomtom
+### Auctioneer:
+Segít az aukciózáshoz kapcsolódó tevékenységek automatizálásában és a piaci árak követésében.
+Letöltés: https://www.curseforge.com/wow/addons/auctioneer
+### GatherMate2:
+Jegyzi a kitermelhető nyersanyagok helyét a térképen a könnyebb farmoláshoz.
+Letöltés: https://www.curseforge.com/wow/addons/gathermate2
+## Addonok Telepítése:
+Keress egy addon: Látogass el az addon oldalára a CurseForge-on vagy más megbízható addon webhelyeken.
+
+Töltsd le az addont: Kattints a letöltés gombra az addon oldalán.
+
+Telepítsd az addont: Az addon kezelődben kattints az "Addon importálása" és keress rá a letöltött addon fájlra, majd kattints az "Telepítés" gombra.
+
+Engedélyezd az addont: Telepítés után győződj meg róla, hogy az addon engedélyezve van az addon kezelődben, mielőtt elindítanád a WoW-ot.
+
+Élvezd a Fokozott WoW Élményedet!
+Most, hogy telepítetted ezeket az alapvető addonokat, a WoW felületed informatívabb, felhasználóbarátabb és az igényeidhez igazított lesz. Boldog kalandokat kívánok!
